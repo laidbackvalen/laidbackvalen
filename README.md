@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
 <h3 align="center">Software Engineer(Android Developer (Java-Kotlin) / Web ( HTML / CSS) )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
+<p alig![coding_gif](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/a5c78793-5cb7-4675-aa5f-699b5ba621f6)
+n="left"> <img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
