@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **valen.patel1@gmail.com**
 
-- ⚡ Fun fact **A ship is always safe at the shore, but that's not what it's built for**
+- ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
