@@ -20,6 +20,8 @@
 - 💬 Ask me about **Android / Web**
 
 - 📫 How to reach me **valen.patel1@gmail.com**
+  
+- 📄 Know about my experiences [https://profile.indeed.com/document/view](https://profile.indeed.com/document/view)
 
 - ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
 
