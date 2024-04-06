@@ -48,7 +48,8 @@ Android Development : Proficient in developing Android apps using Java, Kotlin, 
 - **Version Control**: Proficient in using GIT for version control and collaboration.
 - **Database Management Systems**: Experienced in MySQL for backend database management.
 - **API Testing**: Skilled in using Postman for testing APIs and debugging.
-
+- 
+I'm constantly exploring new technologies and techniques to enhance my skills and deliver top-notch solutions. Let's connect and collaborate on exciting projects!
 <br>
 
 <h3 align="left">Connect with me:</h3>
