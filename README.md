@@ -11,11 +11,17 @@
 
 ![andy-lotie_cbad42ad](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648)
 
+- 🔭 I’m currently working on **Django Framework**
+
+- 🌱 I’m currently learning **REST API using Django Framework**
+
 - 👨‍💻 All of my projects are available at [https://github.com/laidbackvalen?tab=repositories](https://github.com/laidbackvalen?tab=repositories)
 
 - 💬 Ask me about **Android / Web**
 
 - 📫 How to reach me **valen.patel1@gmail.com**
+
+- ⚡ Fun fact **A ship is always safe at the shore, but that's not what it's built for**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
