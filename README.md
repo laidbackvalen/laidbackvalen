@@ -31,16 +31,18 @@
 <br>
 <br>
 
-![andy-lotie_cbad42ad](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648)
-
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="500" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="500" alt="instagram logo"  />
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valen-patel-7b7172a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valen-patel-7b7172a8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/laidback-valen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="laidback-valen" height="30" width="40" /></a>
-<a href="https://fb.com/me.valenpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.valenpatel" height="30" width="40" /></a>
-<a href="https://instagram.com/laidback_valen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laidback_valen" height="30" width="40" /></a>
-</p>
+
+
+
+<div align="left">
+   <a href="https://instagram.com/laidback_valen" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+   </a> 
+  <a href="https://linkedin.com/in/valen-patel-7b7172a8" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+</div>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,11 +51,9 @@
 <br>
 <br>
 
-![anmmmmmmmmmm_3c7b44d2](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laidbackvalen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laidbackvalen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laidbackvalen&show_icons=true&locale=en&layout=compact" alt="laidbackvalen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laidbackvalen&show_icons=true&locale=en" alt="laidbackvalen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laidbackvalen&" alt="laidbackvalen" /></p>
-
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laidbackvalen&&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150 alt="laidbackvalen" /></p>
+</div>
