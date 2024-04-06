@@ -1,4 +1,3 @@
-
 ![2000_600px](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/f9ee048f-1aa3-4e7b-a8a8-fd951d97a3d7)
 
 <h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
@@ -9,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p>I am an experienced Android Developer with a passion for crafting robust and user-friendly mobile applications.</p>
 
 <h3>Education Qualification: </h3>
 <p>👨‍🎓 Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
@@ -34,7 +34,7 @@
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="300" alt="instagram logo"  />
 <br>
 <br>
-<p>I am an experienced Android Developer with a passion for crafting robust and user-friendly mobile applications. Here's a snapshot of my skills and expertise:</p>
+ <p>Here's a snapshot of my skills and expertise:</p>
 Android Development : Proficient in developing Android apps using Java, Kotlin, and various frameworks.
 
 - **Backend Services**: Experienced in integrating Firebase services for authentication, real-time database, and cloud messaging.
