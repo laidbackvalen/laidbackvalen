@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
+
 <h3 align="center">Software Engineer(Android Developer (Java-Kotlin) / Web ( HTML / CSS) )</h3>
-
-
 
 <img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+![andy-lotie_cbad42ad](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648)
 
 - 👨‍💻 All of my projects are available at [https://github.com/laidbackvalen?tab=repositories](https://github.com/laidbackvalen?tab=repositories)
 
