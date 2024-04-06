@@ -1,16 +1,16 @@
 
 ![2000_600px](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/f9ee048f-1aa3-4e7b-a8a8-fd951d97a3d7)
 
-<h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
+<h1 align="center">Hi 👋, I'm Valen Rajubhai Patel😎</h1>
 
-<h3 align="center">Software Engineer(Android Developer (Java-Kotlin) / Web ( HTML / CSS) )</h3>
+<h3 align="center">Software Engineer(Android Developer📱(Java-Kotlin) / Web 👨‍💻( HTML / CSS) )</h3>
 
 <img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p>Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
-<p>hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
+<p>👨‍🎓Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
+<p>🧑‍🏭hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Android / Web**
 
-- 📫 How to reach me **valen.patel1@gmail.com**
+- 📫 How to reach me 📨**valen.patel1@gmail.com**
   
 - 📄 Know about my experiences [https://profile.indeed.com/document/view](https://profile.indeed.com/document/view)
 
