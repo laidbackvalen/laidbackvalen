@@ -1,7 +1,7 @@
 
 ![2000_600px](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/f9ee048f-1aa3-4e7b-a8a8-fd951d97a3d7)
 
-<h1 align="center">Hi 👋, I'm Valen Rajubhai Patel😎</h1>
+<h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
 
 <h3 align="center">Software Engineer(Android Developer📱(Java-Kotlin) / Web 👨‍💻( HTML / CSS) )</h3>
 
@@ -9,10 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p>👨‍🎓Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
-<p>🧑‍🏭hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
 
-<br>
+<h3>Education Qualification: </h3>
+<p>👨‍🎓 Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
+<p>🧑‍🏭 hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
+
 
 - 🔭 I’m currently working on **Django Framework**
 
@@ -29,10 +30,25 @@
 - ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
 
 <br>
-<br>
-
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="300" alt="instagram logo"  />
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="300" alt="instagram logo"  />
+<br>
+<br>
+<p>I am an experienced Android Developer with a passion for crafting robust and user-friendly mobile applications. Here's a snapshot of my skills and expertise:</p>
+Android Development : Proficient in developing Android apps using Java, Kotlin, and various frameworks.
+
+- **Backend Services**: Experienced in integrating Firebase services for authentication, real-time database, and cloud messaging.
+- **Database Management**: Skilled in working with Room and SQLite for efficient local data storage.
+- **API Integration**: Familiar with integrating Google API, Restful API, and Retrofit for seamless communication with backend services.
+- **UI/UX Design**: Committed to creating intuitive and visually appealing user interfaces for optimal user experience.
+- **Architecture Patterns**: Knowledgeable in using SDK, MVC, MVVM, and Dagger Hilt for building scalable and maintainable apps.
+- **Testing**: Proficient in implementing Unit Testing to ensure app reliability and stability.
+- **Native Development**: Experienced in Android NDK for integrating native code into Android applications.
+- **Data Formats**: Well-versed in handling JSON data formats for efficient data exchange.
+- **Version Control**: Proficient in using GIT for version control and collaboration.
+- **Database Management Systems**: Experienced in MySQL for backend database management.
+- **API Testing**: Skilled in using Postman for testing APIs and debugging.
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
