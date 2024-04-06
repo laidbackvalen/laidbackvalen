@@ -1,3 +1,6 @@
+
+![2000_600px](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/f9ee048f-1aa3-4e7b-a8a8-fd951d97a3d7)
+
 <h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
 
 <h3 align="center">Software Engineer(Android Developer (Java-Kotlin) / Web ( HTML / CSS) )</h3>
@@ -10,6 +13,7 @@
 <p>hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
 
 <br>
+
 - 🔭 I’m currently working on **Django Framework**
 
 - 🌱 I’m currently learning **REST API using Django Framework**
