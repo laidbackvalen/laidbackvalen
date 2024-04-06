@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p>Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in IT</p>
+<p>Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
 <p>hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
 
 ![andy-lotie_cbad42ad](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648)
