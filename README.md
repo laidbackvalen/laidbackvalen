@@ -31,8 +31,8 @@
 <br>
 <br>
 
-<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="500" alt="instagram logo"  />
-<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="500" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="400" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="400" alt="instagram logo"  />
 <br>
 <h3 align="left">Connect with me:</h3>
 
