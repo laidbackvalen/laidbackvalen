@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p>I am an experienced Android Developer with a passion for crafting robust and user-friendly mobile applications.</p>
-
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="300" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="300" alt="instagram logo"  />
 <h3>Education Qualification: </h3>
 <p>👨‍🎓 Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
 <p>🧑‍🏭 hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
@@ -28,10 +29,18 @@
 - 📄 Know about my experiences [https://profile.indeed.com/document/view](https://profile.indeed.com/document/view)
 
 - ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
+<br>
+<br>
+<h2>Some Projects i have made</h2>
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/906643d1-b7e6-4687-a398-91be987ca89c" height="300" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/0d82307d-439b-4ca5-82ff-b95871c8de48" height="300" alt="instagram logo"  />
+<br>
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/9bbd520d-2121-4509-82e8-a62d40cc12cc" height="300" alt="instagram logo"  />
+<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/61b49b52-5c94-48c7-a65f-bfa78d6be9e8" height="300" alt="instagram logo"  />
 
 <br>
-<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="300" alt="instagram logo"  />
-<img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/ca885063-1558-4f9a-b455-ff9c819cda5a" height="300" alt="instagram logo"  />
+
+
 <br>
 <br>
  <p>Here's a snapshot of my skills and expertise:</p>
