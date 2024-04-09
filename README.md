@@ -14,7 +14,9 @@
 
 <br>
 <br>
-<h3>Education Qualification: </h3>
+<br>
+
+<h2>Education Qualification: </h2>
 <p>👨‍🎓 Graduate with a Bachelor's and Master's degree in Computer Applications, as well as an MBA specializing in Information Technology</p>
 <p>🧑‍🏭 hands-on experience gained through internships, college projects, and freelancing, I have honed my skills in native Android development, REST API technology, and project management</p>
 
