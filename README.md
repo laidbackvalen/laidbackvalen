@@ -65,7 +65,7 @@ Android Development : Proficient in developing Android apps using Java, Kotlin, 
   
 I'm constantly exploring new technologies and techniques to enhance my skills and deliver top-notch solutions. Let's connect and collaborate on exciting projects!
 <br>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
    <a href="https://instagram.com/laidback_valen" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
