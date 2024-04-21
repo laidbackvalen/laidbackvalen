@@ -7,9 +7,28 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=fff53a&center=true&random=false&width=1400&height=100&lines=Crafting+Innovative+Mobile+Solutions+with+Java+%7C+Kotlin+%7C+UI-UX+%7C+Firebase+;RoomDB+%7C+SQLite+%7C+Rest+API+%7C+Retrofit+%7C+MySQL+%7C+MongoDB+%7C+Github;JSON+Parsing+%7C+Postman+and+more" alt="Typing SVG" /></a></h3
 
-<img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h4>View Counts</h4>
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=laidbackvalen&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/d3d183f4-3568-4031-830b-d954f4a5b648" height="300" alt="instagram logo"  />
