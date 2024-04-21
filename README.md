@@ -59,13 +59,14 @@
 - ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
 <br>
 <br>
+<div align = "center">
 <h2>Some Projects i have made</h2>
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/906643d1-b7e6-4687-a398-91be987ca89c" height="300" alt="instagram logo"  />
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/0d82307d-439b-4ca5-82ff-b95871c8de48" height="300" alt="instagram logo"  />
 <br>
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/9bbd520d-2121-4509-82e8-a62d40cc12cc" height="300" alt="instagram logo"  />
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/61b49b52-5c94-48c7-a65f-bfa78d6be9e8" height="300" alt="instagram logo"  />
-
+</div>
 <br>
 
 
