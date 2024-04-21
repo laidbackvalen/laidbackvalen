@@ -2,7 +2,7 @@
 ![2000_600px](https://github.com/laidbackvalen/laidbackvalen/assets/91414069/f9ee048f-1aa3-4e7b-a8a8-fd951d97a3d7)
 
 <h1 align="center">Hi 👋, I'm Valen Rajubhai Patel</h1>
-<h3 align="center">Software Engineer(Android Developer📱(Java/Kotlin)/ Web 👨‍💻 (HTML/ CSS)</h3>
+<h3 align="center">Software Engineer(Android Developer📱(Java/Kotlin)/ Web Developer👨‍💻 (HTML/ CSS)</h3>
 <p align="center">I am an experienced Android Developer with a passion for crafting robust and user-friendly mobile applications.</p>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7C712&center=true&random=false&width=1400&height=100&lines=Crafting+Innovative+Mobile+Solutions+with+Java+%7C+Kotlin+%7C+UI-UX+%7C+Firebase+;RoomDB+%7C+SQLite+%7C+Rest+API+%7C+Retrofit+%7C+MySQL+%7C+MongoDB+%7C+Github;JSON+Parsing+%7C+Postman+and+more" alt="Typing SVG" /></a></h3
