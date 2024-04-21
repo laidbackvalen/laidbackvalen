@@ -9,7 +9,7 @@
 
 
 <h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7CF18&random=false&width=700&lines=Passionate+Android+Developer!;Crafting+Innovative+Mobile+Solutions;with+Java+%7C+Kotlin+%7C+Flutter++;+UI-UX+%7C+Firebase+%7C+RoomDB+%7C+SQLite;Rest+API+%7C+Retrofit+%7C+MySQL;Github+%7C+JSON+Parsing+%7C+Postman" alt="Typing SVG" /></a> </h3
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Passionate+Android+Developer!;Crafting+Innovative+Mobile+Solutions;with+Java+%7C+Kotlin+%7C+Flutter++;+UI-UX+%7C+Firebase+%7C+RoomDB+%7C+SQLite;Rest+API+%7C+Retrofit+%7C+MySQL;Github+%7C+JSON+Parsing+%7C+Postman" alt="Typing SVG" /></a> </h3
 
 <img src="https://komarev.com/ghpvc/?username=laidbackvalen&label=Profile%20views&color=0e75b6&style=flat" alt="laidbackvalen" /> </p>
 
