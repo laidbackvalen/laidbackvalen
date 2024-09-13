@@ -59,8 +59,12 @@
 - ⚡ Quote **"A ship is always safe at the shore, but that's not what it's built for"**
 <br>
 <br>
+
 <div align = "center">
 <h2>Some Projects i have made</h2>
+<img src="https://github.com/user-attachments/assets/a48e9e11-800b-4395-9526-46b9f520e880" height="300" alt="instagram logo"  />
+<img src="https://github.com/user-attachments/assets/7f5a8036-2923-4585-a0a9-093ff9f6137a" height="300" alt="instagram logo"  />
+<br>
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/906643d1-b7e6-4687-a398-91be987ca89c" height="300" alt="instagram logo"  />
 <img src="https://github.com/laidbackvalen/laidbackvalen/assets/91414069/0d82307d-439b-4ca5-82ff-b95871c8de48" height="300" alt="instagram logo"  />
 <br>
@@ -70,7 +74,9 @@
 <br>
 
 
+
 <br>
+
 <br>
  <p>Here's a snapshot of my skills and expertise:</p>
 Android Development : Proficient in developing Android apps using Java, Kotlin, and various frameworks.
